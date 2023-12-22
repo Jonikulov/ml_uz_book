@@ -1,3 +1,18 @@
 - Rewrite all notebooks yourself with descriptoins and fill with information. (in Uzb)
 
-- 
+- RESOURCES & MATERIALS:
+    - stats.stackexchange.com/users/64943/itdexer
+    - stats.stackexchange.com/q/153535
+    - blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/#
+    - kaggle.com/goyalshalini93/car-data
+    - medium.com/@penggongting/implementing-decision-tree-from-scratch-in-python-c732e7c69aea
+    - anderfernandez.com/en/blog/code-decisoin-tree-python-from-scratch
+    - researchgate.net/figure/Biological-Neuron-Model_fig1_341241129
+    - countbio.com/web_pages/left_object/R_for_biology/R_biostatistics_part-1/gaussian_distribution.html
+    - kaggle.com/yersever/500-person-gender-height-weight-bodymassindex
+    - medium.com/@ferhat00/deep-learning-with-keras-classifying-cats-and-dogs-part-1-982067594856
+    - deepai.org/machine-learning-glossary-and-terms/neural-network
+    - towardsdatascience.com/polynomial-regression-bbe8b9d97491
+    - doi.org/10.1023/A:1011288000451
+
+-
